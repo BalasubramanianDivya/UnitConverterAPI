@@ -97,19 +97,19 @@ Example - Response
 
 ### Swagger UI
 
-![Swagger UI](Screenshots/HomePage.png)
+![Swagger UI](Unit_Converter_API/Screenshots/HomePage.png)
 
 ### Length Conversion Example
 
-![Length Conversion](Screenshots/length_conv.png)
-![Length Result](Screenshots/length_res.png)
+![Length Conversion](Unit_Converter_API/Screenshots/length_conv.png)
+![Length Result](Unit_Converter_API/Screenshots/length_res.png)
 
 ### Weight Conversion Example
 
-![Weight Conversion](Screenshots/Weight_conversion.png)
-![Weight Result](Screenshots/weight_res.png)
+![Weight Conversion](Unit_Converter_API/Screenshots/Weight_conversion.png)
+![Weight Result](Unit_Converter_API/Screenshots/weight_res.png)
 
 ### Temperature Conversion Example
 
-![Temperature Conversion](Screenshots/temp_conv.png)
-![Temperature Result](Screenshots/temp_res.png)
+![Temperature Conversion](Unit_Converter_API/Screenshots/temp_conv.png)
+![Temperature Result](Unit_Converter_API/Screenshots/temp_res.png)
